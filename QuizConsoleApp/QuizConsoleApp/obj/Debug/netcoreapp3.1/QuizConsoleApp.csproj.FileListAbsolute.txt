@@ -1,0 +1,13 @@
+C:\Users\villa\Documents\Projects\Learning_C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\netcoreapp3.1\QuizConsoleApp.csprojAssemblyReference.cache
+C:\Users\villa\Documents\Projects\Learning_C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\netcoreapp3.1\QuizConsoleApp.AssemblyInfoInputs.cache
+C:\Users\villa\Documents\Projects\Learning_C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\netcoreapp3.1\QuizConsoleApp.AssemblyInfo.cs
+C:\Users\villa\Documents\Projects\Learning_C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\netcoreapp3.1\QuizConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\villa\Documents\Projects\Learning_C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\netcoreapp3.1\QuizConsoleApp.exe
+C:\Users\villa\Documents\Projects\Learning_C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\netcoreapp3.1\QuizConsoleApp.deps.json
+C:\Users\villa\Documents\Projects\Learning_C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\netcoreapp3.1\QuizConsoleApp.runtimeconfig.json
+C:\Users\villa\Documents\Projects\Learning_C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\netcoreapp3.1\QuizConsoleApp.runtimeconfig.dev.json
+C:\Users\villa\Documents\Projects\Learning_C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\netcoreapp3.1\QuizConsoleApp.dll
+C:\Users\villa\Documents\Projects\Learning_C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\netcoreapp3.1\QuizConsoleApp.pdb
+C:\Users\villa\Documents\Projects\Learning_C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\netcoreapp3.1\QuizConsoleApp.dll
+C:\Users\villa\Documents\Projects\Learning_C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\netcoreapp3.1\QuizConsoleApp.pdb
+C:\Users\villa\Documents\Projects\Learning_C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\netcoreapp3.1\QuizConsoleApp.genruntimeconfig.cache

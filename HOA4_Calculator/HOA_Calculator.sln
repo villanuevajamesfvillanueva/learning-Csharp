@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOA_Calculator", "HOA_Calculator\HOA_Calculator.csproj", "{1FAF9CE0-CC26-4EA1-822E-9B13FB833001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FAF9CE0-CC26-4EA1-822E-9B13FB833001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FAF9CE0-CC26-4EA1-822E-9B13FB833001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FAF9CE0-CC26-4EA1-822E-9B13FB833001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FAF9CE0-CC26-4EA1-822E-9B13FB833001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {091000E3-97D9-4BB7-ACF9-F19A48DB8A64}
+	EndGlobalSection
+EndGlobal

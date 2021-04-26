@@ -1,0 +1,13 @@
+C:\Users\villa\Documents\Projects\Learning_C#\PetConsoleApp\PetConsoleApp\bin\Debug\netcoreapp3.1\PetConsoleApp.exe
+C:\Users\villa\Documents\Projects\Learning_C#\PetConsoleApp\PetConsoleApp\bin\Debug\netcoreapp3.1\PetConsoleApp.deps.json
+C:\Users\villa\Documents\Projects\Learning_C#\PetConsoleApp\PetConsoleApp\bin\Debug\netcoreapp3.1\PetConsoleApp.runtimeconfig.json
+C:\Users\villa\Documents\Projects\Learning_C#\PetConsoleApp\PetConsoleApp\bin\Debug\netcoreapp3.1\PetConsoleApp.runtimeconfig.dev.json
+C:\Users\villa\Documents\Projects\Learning_C#\PetConsoleApp\PetConsoleApp\bin\Debug\netcoreapp3.1\PetConsoleApp.dll
+C:\Users\villa\Documents\Projects\Learning_C#\PetConsoleApp\PetConsoleApp\bin\Debug\netcoreapp3.1\PetConsoleApp.pdb
+C:\Users\villa\Documents\Projects\Learning_C#\PetConsoleApp\PetConsoleApp\obj\Debug\netcoreapp3.1\PetConsoleApp.csprojAssemblyReference.cache
+C:\Users\villa\Documents\Projects\Learning_C#\PetConsoleApp\PetConsoleApp\obj\Debug\netcoreapp3.1\PetConsoleApp.AssemblyInfoInputs.cache
+C:\Users\villa\Documents\Projects\Learning_C#\PetConsoleApp\PetConsoleApp\obj\Debug\netcoreapp3.1\PetConsoleApp.AssemblyInfo.cs
+C:\Users\villa\Documents\Projects\Learning_C#\PetConsoleApp\PetConsoleApp\obj\Debug\netcoreapp3.1\PetConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\villa\Documents\Projects\Learning_C#\PetConsoleApp\PetConsoleApp\obj\Debug\netcoreapp3.1\PetConsoleApp.dll
+C:\Users\villa\Documents\Projects\Learning_C#\PetConsoleApp\PetConsoleApp\obj\Debug\netcoreapp3.1\PetConsoleApp.pdb
+C:\Users\villa\Documents\Projects\Learning_C#\PetConsoleApp\PetConsoleApp\obj\Debug\netcoreapp3.1\PetConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\bin\Debug\netcoreapp3.1\IntroWinForms.exe
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\bin\Debug\netcoreapp3.1\IntroWinForms.deps.json
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\bin\Debug\netcoreapp3.1\IntroWinForms.runtimeconfig.json
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\bin\Debug\netcoreapp3.1\IntroWinForms.runtimeconfig.dev.json
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\bin\Debug\netcoreapp3.1\IntroWinForms.dll
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\bin\Debug\netcoreapp3.1\IntroWinForms.pdb
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\obj\Debug\netcoreapp3.1\IntroWinForms.csprojAssemblyReference.cache
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\obj\Debug\netcoreapp3.1\IntroWinForms.Form1.resources
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\obj\Debug\netcoreapp3.1\IntroWinForms.csproj.GenerateResource.cache
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\obj\Debug\netcoreapp3.1\IntroWinForms.AssemblyInfoInputs.cache
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\obj\Debug\netcoreapp3.1\IntroWinForms.AssemblyInfo.cs
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\obj\Debug\netcoreapp3.1\IntroWinForms.csproj.CoreCompileInputs.cache
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\obj\Debug\netcoreapp3.1\IntroWinForms.dll
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\obj\Debug\netcoreapp3.1\IntroWinForms.pdb
+C:\Users\villa\source\repos\IntroWinForms\IntroWinForms\obj\Debug\netcoreapp3.1\IntroWinForms.genruntimeconfig.cache

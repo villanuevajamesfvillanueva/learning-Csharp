@@ -1,0 +1,16 @@
+D:\HDD Downloads\John\Deliverable1\bin\Debug\net5.0\Deliverable1.exe
+D:\HDD Downloads\John\Deliverable1\bin\Debug\net5.0\Deliverable1.deps.json
+D:\HDD Downloads\John\Deliverable1\bin\Debug\net5.0\Deliverable1.runtimeconfig.json
+D:\HDD Downloads\John\Deliverable1\bin\Debug\net5.0\Deliverable1.runtimeconfig.dev.json
+D:\HDD Downloads\John\Deliverable1\bin\Debug\net5.0\Deliverable1.dll
+D:\HDD Downloads\John\Deliverable1\bin\Debug\net5.0\ref\Deliverable1.dll
+D:\HDD Downloads\John\Deliverable1\bin\Debug\net5.0\Deliverable1.pdb
+D:\HDD Downloads\John\Deliverable1\obj\Debug\net5.0\Deliverable1.csprojAssemblyReference.cache
+D:\HDD Downloads\John\Deliverable1\obj\Debug\net5.0\Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HDD Downloads\John\Deliverable1\obj\Debug\net5.0\Deliverable1.AssemblyInfoInputs.cache
+D:\HDD Downloads\John\Deliverable1\obj\Debug\net5.0\Deliverable1.AssemblyInfo.cs
+D:\HDD Downloads\John\Deliverable1\obj\Debug\net5.0\Deliverable1.csproj.CoreCompileInputs.cache
+D:\HDD Downloads\John\Deliverable1\obj\Debug\net5.0\Deliverable1.dll
+D:\HDD Downloads\John\Deliverable1\obj\Debug\net5.0\ref\Deliverable1.dll
+D:\HDD Downloads\John\Deliverable1\obj\Debug\net5.0\Deliverable1.pdb
+D:\HDD Downloads\John\Deliverable1\obj\Debug\net5.0\Deliverable1.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\bin\Debug\netcoreapp3.1\QuizWindowsForm.exe
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\bin\Debug\netcoreapp3.1\QuizWindowsForm.deps.json
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\bin\Debug\netcoreapp3.1\QuizWindowsForm.runtimeconfig.json
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\bin\Debug\netcoreapp3.1\QuizWindowsForm.runtimeconfig.dev.json
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\bin\Debug\netcoreapp3.1\QuizWindowsForm.dll
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\bin\Debug\netcoreapp3.1\QuizWindowsForm.pdb
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\obj\Debug\netcoreapp3.1\QuizWindowsForm.csprojAssemblyReference.cache
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\obj\Debug\netcoreapp3.1\QuizWindowsForm.Form1.resources
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\obj\Debug\netcoreapp3.1\QuizWindowsForm.csproj.GenerateResource.cache
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\obj\Debug\netcoreapp3.1\QuizWindowsForm.AssemblyInfoInputs.cache
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\obj\Debug\netcoreapp3.1\QuizWindowsForm.AssemblyInfo.cs
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\obj\Debug\netcoreapp3.1\QuizWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\obj\Debug\netcoreapp3.1\QuizWindowsForm.dll
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\obj\Debug\netcoreapp3.1\QuizWindowsForm.pdb
+C:\Users\villa\Documents\Projects\Learning_C#\QuizWindowsForm\QuizWindowsForm\obj\Debug\netcoreapp3.1\QuizWindowsForm.genruntimeconfig.cache

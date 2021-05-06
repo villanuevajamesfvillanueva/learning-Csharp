@@ -1,0 +1,47 @@
+Trex Quiz Runner is a combination of an endless runner game
+and a quiz game. The aim of this game is to impart some knowledge
+about dinosaurs to the user, while also having a fun gameplay.
+
+MECHANICS:
+	Player controls a Trex named Lil' T using only the spacebar key.
+	Pressing the spacebar makes Lil' T jump.
+
+PSEUDOCODE:
+>form2: startscreen
+	-startGameBtn clicked:
+		-init ingamescreen
+		-show ingamescreen
+	-helpBtn clicked:
+		-init helpscreen
+		-show helpscreen
+		
+>form1: ingamescreen
+	-declare game variables
+	-gameReset()
+
+	gameReset:
+	{
+		-init game variables
+		-start gameTimer
+	}
+
+	gameTimer:
+	{
+		-obstacles and trex movement mechanics
+		-quiz mechanics
+
+		-if score = some arbitrary condition, askQuestion()
+		-checkAnswer()
+
+		-change obstacle speed depending on current score
+
+		-detect trex and obstacle collision
+			-if true, gameOver = true
+	}
+
+	askQuestion:
+	{
+		-questions 1-10
+	}
+
+

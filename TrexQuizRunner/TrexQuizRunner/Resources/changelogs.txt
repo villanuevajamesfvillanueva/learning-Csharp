@@ -1,0 +1,7 @@
+Changelogs:
+	> nothing much changed from the proposal
+		> only updated choices in question 9
+	> added game sounds
+	> added multiple forms
+		> for welcome screen, in-game screen, help screen
+

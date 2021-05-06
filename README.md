@@ -1,2 +1,2 @@
 # learning-c#
-my beginner projects to help me learn c#
+my beginner console app and winforms projects to help me learn c#
